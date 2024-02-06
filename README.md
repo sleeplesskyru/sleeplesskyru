@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on small projects such as game mods (mostly for Lethal Company) and Discord bots.
+- 📆 Hopefully starting something on a larger scale while working toward my degree. Maybe as a final project or just for my portfolio!
+- 🌱 I’m currently learning mechatronic engineering and hoping to get my BS
